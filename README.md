@@ -1,5 +1,7 @@
 ### Hi 👋, I am Kae
 
+---
+
 ### 🧊 GRiTS Data Cube
 
 Local tools for downloading, organizing, and reading gridded Earth observation data for long-term global monitoring.
@@ -41,7 +43,7 @@ Local tools for downloading, organizing, and reading gridded Earth observation d
   </tbody>
 </table>
 
-<br>
+---
 
 ### 🌱 Research
 
@@ -70,7 +72,7 @@ Local tools for downloading, organizing, and reading gridded Earth observation d
   </tbody>
 </table>
 
-<br>
+---
 
 ### 🤖 AI Tools
 
