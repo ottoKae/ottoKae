@@ -4,13 +4,42 @@
 
 Local tools for downloading, organizing, and reading gridded Earth observation data.
 
-| Repository | Focus | Resource |
-|:-----------|:------|:--------:|
-| 🛰️ [S1-GRiTS](https://github.com/ottoKae/S1-GRiTS) | Sentinel-1 SAR time-series Data Cube | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/S1-GRiTS) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/S1-GRiTS?style=social)](https://github.com/ottoKae/S1-GRiTS) |
-| 🌈 [S2-GRiTS](https://github.com/ottoKae/S2-GRiTS) | Sentinel-2 native-resolution scene archives | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/S2-GRiTS) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/S2-GRiTS?style=social)](https://github.com/ottoKae/S2-GRiTS) |
-| 🌍 [LandSat-GRiTS](https://github.com/ottoKae/LandSat-GRiTS) | Landsat Collection 2 time-series archives | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/LandSat-GRiTS) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/LandSat-GRiTS?style=social)](https://github.com/ottoKae/LandSat-GRiTS) |
-| 🧠 [AEF-GRiTS](https://github.com/ottoKae/AEF-GRiTS) | Annual remote-sensing embeddings | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/AEF-GRiTS) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/AEF-GRiTS?style=social)](https://github.com/ottoKae/AEF-GRiTS) |
-| 🔗 [GRiTS-Resolver](https://github.com/ottoKae/GRiTS-Resolver) | Read and align data across GRiTS Data Cube | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/GRiTS-Resolver) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/GRiTS-Resolver?style=social)](https://github.com/ottoKae/GRiTS-Resolver) |
+<table width="850">
+  <thead>
+    <tr>
+      <th width="240" align="left">Repository</th>
+      <th width="430" align="left">Focus</th>
+      <th width="180" align="left">Resource</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🛰️ <a href="https://github.com/ottoKae/S1-GRiTS">S1-GRiTS</a></td>
+      <td>Download and organize Sentinel-1 SAR time series</td>
+      <td><a href="https://github.com/ottoKae/S1-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a><br><a href="https://github.com/ottoKae/S1-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/S1-GRiTS?style=social" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td>🌈 <a href="https://github.com/ottoKae/S2-GRiTS">S2-GRiTS</a></td>
+      <td>Download and organize Sentinel-2 scenes at native resolution</td>
+      <td><a href="https://github.com/ottoKae/S2-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a><br><a href="https://github.com/ottoKae/S2-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/S2-GRiTS?style=social" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td>🌍 <a href="https://github.com/ottoKae/LandSat-GRiTS">LandSat-GRiTS</a></td>
+      <td>Download and organize Landsat Collection 2 time series</td>
+      <td><a href="https://github.com/ottoKae/LandSat-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a><br><a href="https://github.com/ottoKae/LandSat-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/LandSat-GRiTS?style=social" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td>🧠 <a href="https://github.com/ottoKae/AEF-GRiTS">AEF-GRiTS</a></td>
+      <td>Download and organize annual remote-sensing embeddings</td>
+      <td><a href="https://github.com/ottoKae/AEF-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a><br><a href="https://github.com/ottoKae/AEF-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/AEF-GRiTS?style=social" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td>🔗 <a href="https://github.com/ottoKae/GRiTS-Resolver">GRiTS-Resolver</a></td>
+      <td>Read and align data across GRiTS Data Cube</td>
+      <td><a href="https://github.com/ottoKae/GRiTS-Resolver"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a><br><a href="https://github.com/ottoKae/GRiTS-Resolver"><img src="https://img.shields.io/github/stars/ottoKae/GRiTS-Resolver?style=social" alt="GitHub stars"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🌱 Research
 
@@ -21,6 +50,19 @@ Local tools for downloading, organizing, and reading gridded Earth observation d
 
 ## 🤖 AI Tools
 
-| Tool | Focus | Resource |
-|:-----|:------|:--------:|
-| 📚 [Paper Fulltext Fetcher](https://github.com/ottoKae/paper-fulltext-fetcher) | Discover and retrieve authorized paper full texts, build structured corpora, and support evidence-grounded reading with AI agents | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/paper-fulltext-fetcher) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/paper-fulltext-fetcher?style=social)](https://github.com/ottoKae/paper-fulltext-fetcher) |
+<table width="850">
+  <thead>
+    <tr>
+      <th width="240" align="left">Tool</th>
+      <th width="430" align="left">Focus</th>
+      <th width="180" align="left">Resource</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📚 <a href="https://github.com/ottoKae/paper-fulltext-fetcher">Paper Fulltext Fetcher</a></td>
+      <td>Retrieve authorized paper full texts, build structured corpora, and support AI-assisted reading</td>
+      <td><a href="https://github.com/ottoKae/paper-fulltext-fetcher"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a><br><a href="https://github.com/ottoKae/paper-fulltext-fetcher"><img src="https://img.shields.io/github/stars/ottoKae/paper-fulltext-fetcher?style=social" alt="GitHub stars"></a></td>
+    </tr>
+  </tbody>
+</table>
