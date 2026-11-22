@@ -4,9 +4,9 @@
 
 ### 🧊 GRiTS Data Cube
 
-Local tools for downloading, organizing, and reading gridded Earth observation data for long-term global monitoring.
+Local end-to-end tools for downloading, organizing, and accessing gridded Earth observation data for long-term global monitoring.
 
-<em>Spatiotemporal Data Cube ready for <img src="assets/direct-agentic-access.svg" width="164" height="20" align="middle" alt="direct agentic access">.</em>
+*Spatiotemporal Data Cube ready for **direct agentic access**.*
 
 <table width="850">
   <thead>
