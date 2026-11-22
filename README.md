@@ -1,8 +1,8 @@
-## Hi 👋, I am Kae
+### Hi 👋, I am Kae
 
-## 🧊 GRiTS Data Cube
+### 🧊 GRiTS Data Cube
 
-Local tools for downloading, organizing, and reading gridded Earth observation data.
+Local tools for downloading, organizing, and reading gridded Earth observation data for long-term global monitoring.
 
 <table width="850">
   <thead>
@@ -41,14 +41,14 @@ Local tools for downloading, organizing, and reading gridded Earth observation d
   </tbody>
 </table>
 
-## 🌱 Research
+### 🌱 Research
 
 | Topic | Title | Resource | Publication |
 |:-----:|:-----:|:--------:|:-----------:|
 | Sentinel-1 Data Cube | [Sentinel-1 Gridded Time Series (S1-GRiTS): Geometry-traceable SAR Data Cubes for decadal vegetation monitoring in cloud-prone regions](https://github.com/ottoKae/S1-GRiTS) | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/S1-GRiTS) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/S1-GRiTS?style=social)](https://github.com/ottoKae/S1-GRiTS) | Under Review |
 | Plantation Harvest Monitoring | [Mapping rotational harvesting from decadal Sentinel-1 time series with windowed CuSum: A case study of Ecuadorian balsa plantations](https://github.com/ottoKae/windowed_CUSUM_balsa) | [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ottoKae/windowed_CUSUM_balsa) [![GitHub stars](https://img.shields.io/github/stars/ottoKae/windowed_CUSUM_balsa?style=social)](https://github.com/ottoKae/windowed_CUSUM_balsa) | Under Review |
 
-## 🤖 AI Tools
+### 🤖 AI Tools
 
 <table width="850">
   <thead>
