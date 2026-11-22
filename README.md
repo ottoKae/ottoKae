@@ -6,38 +6,40 @@
 
 Local tools for downloading, organizing, and reading gridded Earth observation data for long-term global monitoring.
 
+<em>Spatiotemporal Data Cube ready for <img src="assets/direct-agentic-access.svg" width="164" height="20" align="middle" alt="direct agentic access">.</em>
+
 <table width="850">
   <thead>
     <tr>
-      <th width="240" align="left">Repository</th>
-      <th width="400" align="left">Focus</th>
+      <th width="200" align="left">Repository</th>
+      <th width="440" align="left">Focus</th>
       <th width="210" align="left">Resource</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>🛰️ <a href="https://github.com/ottoKae/S1-GRiTS">S1-GRiTS</a></td>
-      <td>Download and organize Sentinel-1 SAR time series</td>
+      <td>Sentinel-1 SAR time series</td>
       <td><a href="https://github.com/ottoKae/S1-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a> <a href="https://github.com/ottoKae/S1-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/S1-GRiTS?style=social" alt="GitHub stars"></a></td>
     </tr>
     <tr>
       <td>🌈 <a href="https://github.com/ottoKae/S2-GRiTS">S2-GRiTS</a></td>
-      <td>Download and organize native-resolution Sentinel-2 scenes</td>
+      <td>Sentinel-2 scenes at native resolution</td>
       <td><a href="https://github.com/ottoKae/S2-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a> <a href="https://github.com/ottoKae/S2-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/S2-GRiTS?style=social" alt="GitHub stars"></a></td>
     </tr>
     <tr>
       <td>🌍 <a href="https://github.com/ottoKae/LandSat-GRiTS">LandSat-GRiTS</a></td>
-      <td>Download and organize Landsat Collection 2 time series</td>
+      <td>Landsat Collection 2 time series</td>
       <td><a href="https://github.com/ottoKae/LandSat-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a> <a href="https://github.com/ottoKae/LandSat-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/LandSat-GRiTS?style=social" alt="GitHub stars"></a></td>
     </tr>
     <tr>
       <td>🧠 <a href="https://github.com/ottoKae/AEF-GRiTS">AEF-GRiTS</a></td>
-      <td>Download and organize annual AEF embeddings</td>
+      <td>Annual AEF embeddings</td>
       <td><a href="https://github.com/ottoKae/AEF-GRiTS"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a> <a href="https://github.com/ottoKae/AEF-GRiTS"><img src="https://img.shields.io/github/stars/ottoKae/AEF-GRiTS?style=social" alt="GitHub stars"></a></td>
     </tr>
     <tr>
       <td>🔗 <a href="https://github.com/ottoKae/GRiTS-Resolver">GRiTS-Resolver</a></td>
-      <td>Read and align data across GRiTS Data Cube</td>
+      <td>Data access and alignment across GRiTS Data Cube</td>
       <td><a href="https://github.com/ottoKae/GRiTS-Resolver"><img src="https://img.shields.io/badge/Code-GitHub-green" alt="Code"></a> <a href="https://github.com/ottoKae/GRiTS-Resolver"><img src="https://img.shields.io/github/stars/ottoKae/GRiTS-Resolver?style=social" alt="GitHub stars"></a></td>
     </tr>
   </tbody>
@@ -79,8 +81,8 @@ Local tools for downloading, organizing, and reading gridded Earth observation d
 <table width="850">
   <thead>
     <tr>
-      <th width="240" align="left">Tool</th>
-      <th width="400" align="left">Focus</th>
+      <th width="200" align="left">Tool</th>
+      <th width="440" align="left">Focus</th>
       <th width="210" align="left">Resource</th>
     </tr>
   </thead>
